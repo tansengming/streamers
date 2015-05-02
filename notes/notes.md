@@ -1,3 +1,2 @@
-## matching clauses
-
-![](clauses.png)
+- ![](clauses.png)
+- ![](no-exceptions.png)
